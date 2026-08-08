@@ -6,7 +6,7 @@ A Python-based graphical user interface (GUI) application designed to automate t
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Target Geolocation & IP Resolution:** Resolves target domain IP addresses and retrieves server geographic location data via `ipinfo.io`.
 * **WHOIS Lookup:** Gathers domain registration details, registrar contact information, and creation/expiry dates.
@@ -19,13 +19,13 @@ A Python-based graphical user interface (GUI) application designed to automate t
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 * Python **3.8+** installed on your system.
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
    ```bash
@@ -49,7 +49,7 @@ A Python-based graphical user interface (GUI) application designed to automate t
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 Run the main application:
 ```bash
@@ -64,7 +64,7 @@ python recon.py
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 ├── recon.py          # Main Python application source code & GUI
@@ -76,7 +76,7 @@ python recon.py
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This tool is created for **educational and authorized ethical security testing purposes only**. Scanning target systems without prior explicit consent is illegal. The author assumes no responsibility for misuse or damage caused by this software.
 
